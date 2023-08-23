@@ -43,7 +43,7 @@ return (
               source={require("../../assets/logo.png")}
             />
             <Text style={[styles.title]}>
-                ORÇAMENTOS
+                ORCIM
             </Text>
         <TextInput
             style={[styles.input, {borderBottomColor:!loginWarning?'gray':'red'}]}
